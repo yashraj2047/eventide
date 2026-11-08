@@ -3,8 +3,8 @@
 K Explore Web Designing assignment: a modern, responsive site where users can browse upcoming events, search and filter them, read details, and register.
 
 ## Live demo
-- Website: https://YOUR-USERNAME.github.io/eventide/
-- Repository: https://github.com/YOUR-USERNAME/eventide
+- Website: https://yashraj2047.github.io/eventide/
+- Repository: https://github.com/yashraj2047/eventide
 
 ## Features
 - Hero section with a live countdown to the next event
